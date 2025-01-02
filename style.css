@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 *,body{
     font-family: Inter, Arial, Helvetica, sans-serif;;
-   
-    
+
 }
 
 .brand{
@@ -10,10 +9,10 @@
 }
 .dot{
     font-size: 40px;
-    color: #00fff1;;
+    color: #40E0D0;;
 }
 .links a:hover{
-    color: #00fff1;;
+    color: #40E0D0;;
 }
 
 .main-text{
@@ -50,7 +49,7 @@
 .card{
     
     padding-top: 10px;
-    border-left: 7px solid #00fff1;
+    border-left: 7px solid #40E0D0;
 }
 
 
@@ -60,19 +59,19 @@
 
 .title a{
     font-weight: 700;
-    color: #00fff1;
+    color: #40E0D0;
     text-decoration: underline;
     font-size: 22px;
 }
 
 
 .title a:hover{
-    color: #00fff1;
+    color: #40E0D0;
 }
 
 
 .dot2{
-    color: #00fff1;
+    color: #40E0D0;
     font-size: 70px;
 }
 
@@ -92,7 +91,7 @@ footer{
     
     .foot-icon{
         width: 20px;
-        color: #00fff1;
+        color: #40E0D0;
     }
     
     footer p a{
@@ -102,7 +101,7 @@ footer{
     
     
     footer p a:hover{
-        color: #00fff1;
+        color: #40E0D0;
         text-decoration: underline;
     }
 
